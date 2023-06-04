@@ -151,5 +151,3 @@ Pass.
 > * [Magnotti, C., Lopes, R., Derner, R., & Vinatea, L. (2016). Using residual water from a marine shrimp farming BFT system. Part II: Artemia franciscana biomass production fed microalgae grown in reused BFT water. Aquaculture Research, 47(9), 2716-2722.](https://doi.org/10.1111/are.12720)
 > * [Sánchez Romero, A. (2018). Efecto de la temperatura sobre el tiempo y la eficiencia de descapsulación y eclosión en el crustáceo euritermo Artemia sp.](http://hdl.handle.net/10810/26411)
 > * [Hasta 20](Mas o menos)
-
---
