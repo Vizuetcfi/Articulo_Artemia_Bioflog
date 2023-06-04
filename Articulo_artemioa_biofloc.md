@@ -41,44 +41,47 @@ La producción de artemia en estanques con microalgas, pude llegar a ser bastant
 
 La *Artemia* es un crustaceo branquiópodo del orden Anostraca, se encuentra distribuido alrededor del mundo, habita ambientes extremadamente salinos como lagunas costeras, salinas y lagos continentales con escasa diversidad animal, vegetal y con poca presencia de depredadores, es el organismo mas importante y abundante en estos ecosistemas. Este género es conocido desde el Triásico y ha sido ampliamente estudiado debido a su importancia en acuicultura donde se le suele llamar comercialmente como "*Artemia salina*" (Asem et al. 2010; Gaspar et al. 2021; Ogello et al. 2023; Sánchez. 2018).
 
-La *Artemia* posee un cuerpo delgado y alargado, tiene un caparazon rígido formado de quitina que se renueva periodicamente, lo que le permite crecer, su lóngitud depende de las condiciones ambientales y del sexo, llegando a medir entre 10-15 mm en su etapa adulta (Gaspar et al. 2021, Sánchez. 2018;).
+La *Artemia* posee un cuerpo delgado y alargado, tiene un caparazon rígido formado de quitina que se renueva periodicamente, lo que le permite crecer, su lóngitud depende de las condiciones ambientales y del sexo, llegando a medir entre 10-15 mm en su etapa adulta. Las hembras poseen la (Gaspar et al. 2021, Sánchez. 2018;).
+
+Tipicamente, la artemia es recolectada de lagos salados naturales o, en una proporción mucho menor, los quistes se producen en salinas solares (Hasan‐Nataj‐Niazi et al. 2022).
 
 ### Biología y ecologia de *Artemia*
-
 
 #### Taxonomía
 
 El género *Artemia* se conforma por diferentes especies, donde destaca la *A. franciscana*, *A. salina*, *A. monica* y *A. urmiana* y otras como *A. persimilis*, *A. sinica*, *A. tibetiana* y *Artemia sp.*; su clasificación taxonómica es la siguiente (Asem et al. 2010):
 
 Subphylum: Crustacea
-Class: Branchiopoda
-Subclass: Sarsostraca
+Clase: Branchiopoda
+Subclase: Sarsostraca
 Order: Anostraca
-Family: Artemiidae
-Genus: *Artemia*
+Familia: Artemiidae
+Genero: *Artemia*
 
 #### Morfología 
 
-Morfológicamente consta de tres partes: la cabeza, el tórax y el abdomen. Además presenta dimorfismo sexual (Figura 1), el macho posee el segundo par de antenas, situado en la cabeza muy desarrollado. En la hembra en cambio estas antenas son mucho más pequeñas (Sánchez. 2018).
+Morfológicamente consta de tres partes (Gaspar et al. 2021; Sánchez. 2018):
 
-Presentan apéndices toráxicos en forma de hoja -denominados felpudos o toracópodos- con funciones locomotora, respiratoria y filtradora (Gaspar et al. 2021) 
+1. Cabeza: El macho posee un segundo par de antenas muy desarrollado, en contraste con las antenas de las hembras que son mas pequeñas.
+2. Tórax: Tambien posee un apéndice toráxico en forma de hoja (felpudos y toracópodos) que les permite moverse y cumplen con una función filtradora y respiratoria.
+3. Abdomen.
 
+#### Morfologia del quiste
+
+Pass.
+
+#### Reproducción
+
+Las hembras se reproducen de forma ovovivípara u ovípara. En la reproducción ovípara genera embriones (gástrulas) encapsulados, llamados quistes (Sánchez. 2018).
 
 
 ### Importancia en Acuicultura
 
-La producción de quiste de artemia a nivel mundial es muy importante debido a su uso en la alimentación de especies de cultivo, por ejemplo, la producción de peces en estado larvario y de crustaceos dependen principalmente del quiste de artemia (Gaspar et al. 2021).
-
 En acuicultura, la artemia es un recurso muy valioso, ya que es una fuente viva de alimento muy nutritiva para las larvas de diferentes animales acuaticos, tambien provee enzimas digestivas que no se encuentran presentes en los tractos digectivos de las lavas (Ogello et al. 2023; Hasan‐Nataj‐Niazi et al. 2022). 
 
-La producción mundial de peces en estado larvario y de crustaceos dependen principalmente de la producción de quiste de artemia, siendo económicamente muy imortante debido a su uso en la alimentación de especies en cultivo (Gaspar et al. 2021). (editar un poco)
+La producción de quiste de artemia a nivel mundial es muy importante debido a su uso en la alimentación de especies de cultivo, por ejemplo, la producción de peces en estado larvario y de crustaceos dependen principalmente del quiste de artemia (Gaspar et al. 2021).
 
 Debido a sus caracteristicas, la artemia ha ayudado a incrementar la producción acuícola de peces de aleta y crustáceo a nivel mundial (Ogello et al. 2023).
-
-#### Producción
-
-Tipicamente, la artemia es recolectada de lagos salados naturales o, en una proporción mucho menor, los quistes se producen en salinas solares (Hasan‐Nataj‐Niazi et al. 2022).
-
 
 ### Bioflog
 
