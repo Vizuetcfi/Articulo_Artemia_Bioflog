@@ -3,7 +3,7 @@ Create by: Vizuetcf
 ---
 
 
-# Comparación del crecimiento de *Artemia* con diferentes fuentes de carbono.
+# Producción de *Artemia* con diferentes fuentes de carbono.
 
 --- 
 ## Resumen
